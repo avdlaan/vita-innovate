@@ -1,0 +1,2 @@
+# vita-innovate
+Baseline templates
